@@ -1,4 +1,4 @@
-/build
-/nbproject
-.xml
-.mf
+helloWorld/build
+helloWorld/nbproject
+*.xml
+*.mf
