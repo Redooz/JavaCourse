@@ -7,5 +7,5 @@ public class linkVar {
         System.out.println(n1 + n2 + userPosition);
         System.out.println(userPosition + n1 + n2); //You won't see the addition
         System.out.println(userPosition + (n1 + n2)); //You will see the addition
-    }
+    }   
 }
