@@ -1,12 +1,14 @@
 public class HelloWorld {
     public static void main(String args[]){
-        int number = 10;
+        int number = 10, number2 = 12;
+        var lastName = "Olmos"; //You don't need to tag your variable with var
         String myName = "Nicolas";
         System.out.println("Hola Mundo desde Java");
         System.out.println(number);
-        number = number+1; 
+        number = number+number2; 
         System.out.println(number);
-        System.out.println("Hi "+myName);
-        System.out.println("Bye "+myName);
+        System.out.println("Hi "+myName+" "+lastName);
+        System.out.println("Bye "+myName+" " +lastName);
+        
     }
 }
