@@ -1,8 +1,10 @@
 helloWorld/build
 helloWorld/nbproject
-.xml
-.mf
-.class
+*.xml
+*.mf
+*.class
+*.json
+
 helloWorld/src/*.class
 helloWorld/src/rectangle.class
 helloWorld/src/test.class
