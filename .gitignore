@@ -3,3 +3,6 @@ helloWorld/nbproject
 .xml
 .mf
 .class
+helloWorld/src/*.class
+helloWorld/src/rectangle.class
+helloWorld/src/test.class
